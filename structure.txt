@@ -1,0 +1,7 @@
+Game rules:
+    - Four cards, two of each
+    - flip up two cards and if they match, you geta point
+    - If they don't match, they flip down again
+    
+
+- create an array of cards
